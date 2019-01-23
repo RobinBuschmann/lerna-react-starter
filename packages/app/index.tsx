@@ -1,9 +1,9 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
-import {App} from './App';
+import {AppToken} from './App';
 
 ReactDOM.render(
-    <App />,
+    <AppToken />,
     document.getElementById('root') as HTMLElement
 );

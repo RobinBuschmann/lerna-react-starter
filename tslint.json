@@ -9,6 +9,7 @@
     "no-trailing-whitespace": false,
     "object-literal-sort-keys": false,
     "interface-name": false,
+    "no-duplicate-imports": false,
     "no-consecutive-blank-lines": false,
     "trailing-comma": false,
     "ordered-imports": false,
